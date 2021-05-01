@@ -1,4 +1,4 @@
-### 👋 Hello there, I'm Jac Prosser (aka jac) ![Profile views badge](https://komarev.com/ghpvc/?username=jacprosser&style=flat-square&color=328BE9&label=eyes)
+### 👋 Hello there, I'm Jac Prosser (aka jac)
 
 <div align="center">
   <img src=" ">
