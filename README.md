@@ -30,7 +30,7 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://github.com/Microsoft/Terminal)
 [<img align="left" alt="Visual Studio Code Insiders" width="26px" src="https://i.imgur.com/JFLCwxT.png" />](https://code.visualstudio.com/)
 [<img align="left" alt="Git" width="26px" src="https://i.imgur.com/zntZbUU.png" />](https://git-scm.com/)
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/JacProsser)
+[<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/github.svg" />](https://github.com/JacProsser)
 [<img align="left" alt="MongoDB" width="26px" src="https://i.imgur.com/t6t0QmI.png" />](https://www.mongodb.com/)
 [<img align="left" alt="FileZilla" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/FileZilla_logo.svg" />](https://filezilla-project.org/)
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />](https://www.nodejs.org/)
