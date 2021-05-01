@@ -46,6 +46,6 @@
 <details>
   <summary>📈 GitHub Stats</summary>
 
-  <img align="left" alt="jac's GitHub Stats" src="https://github-readme-stats-git-master-jacprosser.vercel.app/api?username=JacProsser&show_icons=true&hide_border=true&count_private=true" />
+  <img align="left" alt="jac's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JacProsser&show_icons=true&hide_border=true&count_private=true" />
 
 </details>
