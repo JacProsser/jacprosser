@@ -1,4 +1,3 @@
-### 👋 Hello there, I'm Jac Prosser (aka jac)
 
 <div align="center">
   <h1>👋 Hello there, I'm Jac Prosser (aka jac)</h1>
