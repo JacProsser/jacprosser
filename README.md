@@ -11,7 +11,7 @@
 
 ## I'm a college student and self-taught dev
 
-- 🔭 I’m currently working on a personal discord bots.
+- 🔭 I’m currently working on personal discord bots.
 - 🌱 I’m currently learning computing, python, JavaScript and so on.
 - ⚡ Fun fact: I love learning something new & I love a challenge
 
