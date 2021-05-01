@@ -1,7 +1,7 @@
 ### 👋 Hello there, I'm Jac Prosser (aka jac)
 
 <div align="center">
-  <img src=" ">
+  <h1>👋 Hello there, I'm Jac Prosser (aka jac)</h1>
 </div>
 
 ---
