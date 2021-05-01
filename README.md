@@ -3,6 +3,9 @@
   <h1>👋 Hello there, I'm Jac Prosser (aka jac)</h1>
 </div>
 
+<div align="center">
+ <img src="https://i.imgur.com/28elfX3.png"></img>
+</div>
 ---
 
 ## I'm a college student and self-taught dev
