@@ -6,6 +6,7 @@
 <div align="center">
  <img src="https://i.imgur.com/28elfX3.png"></img>
 </div>
+
 ---
 
 ## I'm a college student and self-taught dev
