@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1>👋 Hello there, I'm Jac Prosser (aka jac)</h1>
+  <h1>👋 Hello there, I'm Jac Prosser</h1>
 </div>
 
 <div align="center">
