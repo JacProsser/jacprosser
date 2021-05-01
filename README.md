@@ -16,7 +16,7 @@
 [<img align="left" alt="jac's YouTube Channel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/youtube.svg" />](https://bit.ly/3gODUQa)
 [<img align="left" alt="jac's Discord server" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/discord.svg" />](https://discord.gg/MVBhPUsbrS)
 [<img align="left" alt="jac's Twitter profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/twitter.svg" />](https://twitter.com/JacLeighP)
-[<img align="left" alt="jac's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/gmail.svg" />](https://twitter.com/JacLeighP)
+[<img align="left" alt="jac's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/gmail.svg" />](malito:jacleighp@gmail.com)
 <br />
 
 ### Tools I use and programming languages I learn:
