@@ -25,7 +25,7 @@
 
 ### Tools I use and programming languages I learn:
 
-[<img align="left" alt="Photoshop" width="26px" src="https://www.adobe.com/content/dam/cc/icons/photoshop-mobile.svg" />](https://www.photoshop.com/)
+[<img align="left" alt="Adobe Creative Cloud" width="26px" src="https://i.imgur.com/fHvn1cN.png" />](https://www.adobe.com/uk/creativecloud.html)
 [<img align="left" alt="PowerPoint" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg" />](https://www.microsoft.com/en-us/microsoft-365/powerpoint)
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://github.com/Microsoft/Terminal)
 [<img align="left" alt="Visual Studio Code Insiders" width="26px" src="https://i.imgur.com/JFLCwxT.png" />](https://code.visualstudio.com/)
