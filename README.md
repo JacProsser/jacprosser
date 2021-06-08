@@ -3,13 +3,10 @@
   <h1>👋 Hello there, I'm Jac Prosser</h1>
 </div>
 
-<div align="center">
- <img src="https://i.imgur.com/28elfX3.png"></img>
-</div>
 
----
 
-## I'm a college student and self-taught dev
+
+### I'm a college student and self-taught dev
 
 - 🔭 I’m currently working on personal discord bots.
 - 🌱 I’m currently learning computing, python, JavaScript and so on.
@@ -42,7 +39,6 @@
 <br />
 <br />
 
----
 
 <details>
   <summary>📈 GitHub Stats</summary>
